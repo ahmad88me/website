@@ -1,7 +1,7 @@
 ## SmarTerp
 
 ## Datos administrativos
-URL: https://kunveno.digital/
+URL: https://smarter-interpreting.eu/theproject/
 
 Duración: 
 
