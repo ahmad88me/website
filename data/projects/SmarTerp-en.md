@@ -3,7 +3,6 @@
 
 ## Administrative data
 
-URL: https://kunveno.digital/
 URL: https://smarter-interpreting.eu/theproject/
 
 Duration: 
@@ -26,3 +25,4 @@ More specifically, in this project the OEG-UPM is working fundamentally in:
 
 ## Some relevant results
 This section will include descriptions of some of the most relevant results of the project as they are produced.
+
